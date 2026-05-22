@@ -1,11 +1,14 @@
 # 🏧 ATM Machine
 
-**Course project:** ATM machine  
-**Description:** An ATM system implemented in Java, demonstrating object-oriented programming, Abstract Data Types (ADT), and graphical user interface (GUI) development.
+**Project Overview:** A banking system simulation implemented in Java to demonstrate object oriented software engineering and interactive interfaces.  
+**Tech Stack:** Java, GUI Framework
 
 ## 📌 Overview
 
-This project is the main assessment for the PRG1049 Java course.  
-It simulates an ATM machine for the fictional AITBank, allowing customers to perform deposits, withdrawals, and multiple transactions per session.  
-The project includes an **ADT implementation** to model accounts and transactions, and a **GUI** for user interaction.  
+ATM Machine is a desktop application that simulates core banking operations for a digital banking environment. The system enables users to perform secure financial transactions, including structured deposits and withdrawals, across multiple operations within a single active session. The project leverages abstract data types to model financial accounts and logs data pathways via an interactive user interface.
 
+## Core Engineering
+
+* **Data Architecture:** Advanced implementation of abstract data types to accurately model financial accounts, balances, and transactional records.
+* **Object Oriented Structure:** Clean application of design patterns to separate banking business logic from user interaction layers.
+* **Session Management:** Secure handling of multiple sequential transactions, ensuring state persistence throughout the user session.
